@@ -19,12 +19,12 @@ description: >- # this means to ignore newlines until "baseurl:"
   Блог-шпаргалка посвящённый разным областям знаний (в основном Computer Science)
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
 github_username:  issimulacrum
 
 # Build settings
 markdown: kramdown
 theme: minima
+
 plugins:
   - jekyll-feed
 
